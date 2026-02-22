@@ -1,0 +1,8 @@
+tiktoken 
+psutil 
+regex 
+pytest
+torch
+numpy
+einops
+datasets
