@@ -1,0 +1,122 @@
+[
+  {
+    "context": "Once upon a time, there was a little girl named Lily. She loved to play in the garden with her dog, Max. One sunny day, Lily found a beautiful butterfly.",
+    "question": "What did Lily find in the garden?",
+    "choices": ["A flower", "A butterfly", "A bird", "A cat"],
+    "answer": 1
+  },
+  {
+    "context": "Tom was a curious boy who loved to explore. One day, he found an old map in his grandfather's attic. The map showed a path to a hidden treasure in the woods behind his house.",
+    "question": "Where did Tom find the old map?",
+    "choices": ["In the basement", "In his room", "In his grandfather's attic", "In the garden"],
+    "answer": 2
+  },
+  {
+    "context": "The little bunny hopped through the meadow. She was looking for carrots to eat. Her mother had told her that the best carrots grew near the old oak tree.",
+    "question": "What was the bunny looking for?",
+    "choices": ["Apples", "Carrots", "Grass", "Flowers"],
+    "answer": 1
+  },
+  {
+    "context": "Sam the squirrel was busy collecting acorns for winter. He had a special hiding spot under the big pine tree where he kept all his food.",
+    "question": "Why was Sam collecting acorns?",
+    "choices": ["To plant trees", "To give to his friends", "For winter", "To sell them"],
+    "answer": 2
+  },
+  {
+    "context": "Emma loved to read books. Her favorite book was about a princess who lived in a castle. Every night, she would read one chapter before going to sleep.",
+    "question": "What was Emma's favorite book about?",
+    "choices": ["A dragon", "A princess", "A wizard", "A knight"],
+    "answer": 1
+  },
+  {
+    "context": "The three little pigs built their houses. The first pig built with straw, the second with sticks, and the third with bricks. The wolf came and blew down the straw house first.",
+    "question": "Which house did the wolf blow down first?",
+    "choices": ["The brick house", "The stick house", "The straw house", "The stone house"],
+    "answer": 2
+  },
+  {
+    "context": "Lucy went to the bakery with her mother. They bought fresh bread, some cookies, and a chocolate cake for Lucy's birthday party.",
+    "question": "Why did they buy a chocolate cake?",
+    "choices": ["For breakfast", "For dinner", "For Lucy's birthday party", "For the neighbors"],
+    "answer": 2
+  },
+  {
+    "context": "The old lighthouse keeper lived alone on the rocky island. Every night, he would light the lamp to guide the ships safely to shore.",
+    "question": "What did the lighthouse keeper do every night?",
+    "choices": ["Go fishing", "Light the lamp", "Write letters", "Cook dinner"],
+    "answer": 1
+  },
+  {
+    "context": "Peter the penguin loved to slide on the ice. He would climb to the top of the snowy hill and slide all the way down to the frozen lake.",
+    "question": "Where did Peter slide down to?",
+    "choices": ["The ocean", "The frozen lake", "The cave", "The forest"],
+    "answer": 1
+  },
+  {
+    "context": "The magical garden had flowers that could talk. The roses sang songs, the tulips told jokes, and the sunflowers shared stories about the sun.",
+    "question": "What did the sunflowers share stories about?",
+    "choices": ["The moon", "The rain", "The sun", "The wind"],
+    "answer": 2
+  },
+  {
+    "context": "Jenny's cat, Whiskers, loved to chase mice in the barn. One day, Whiskers caught a mouse and brought it to Jenny as a gift.",
+    "question": "What did Whiskers catch?",
+    "choices": ["A bird", "A mouse", "A bug", "A fish"],
+    "answer": 1
+  },
+  {
+    "context": "The kind farmer gave food to all the animals on his farm. The cows got hay, the chickens got corn, and the pigs got vegetables.",
+    "question": "What did the cows get to eat?",
+    "choices": ["Corn", "Hay", "Vegetables", "Apples"],
+    "answer": 1
+  },
+  {
+    "context": "Little Bear went on an adventure in the forest. He found a beehive full of honey and decided to have a sweet snack.",
+    "question": "What did Little Bear find in the forest?",
+    "choices": ["Berries", "A river", "A beehive", "A cave"],
+    "answer": 2
+  },
+  {
+    "context": "The robot named Beep helped children with their homework. He could solve math problems very quickly and explain them in a fun way.",
+    "question": "What could Beep the robot do quickly?",
+    "choices": ["Run races", "Solve math problems", "Draw pictures", "Tell jokes"],
+    "answer": 1
+  },
+  {
+    "context": "Maria loved to paint pictures. Her favorite thing to paint was the ocean because she loved the color blue and the waves.",
+    "question": "What was Maria's favorite thing to paint?",
+    "choices": ["Mountains", "Flowers", "The ocean", "Animals"],
+    "answer": 2
+  },
+  {
+    "context": "The brave knight rode his horse across the kingdom to save the princess. He had to cross a deep river and climb a tall mountain.",
+    "question": "What did the knight have to cross?",
+    "choices": ["A desert", "A deep river", "A dark forest", "A busy city"],
+    "answer": 1
+  },
+  {
+    "context": "Danny the dolphin loved to jump out of the water. He would leap high into the air and do flips that made all his friends cheer.",
+    "question": "What did Danny do that made his friends cheer?",
+    "choices": ["Sang songs", "Did flips", "Caught fish", "Swam fast"],
+    "answer": 1
+  },
+  {
+    "context": "Grandma always made the best apple pie. She used apples from her own tree and a secret recipe that had been in the family for generations.",
+    "question": "Where did Grandma get the apples for her pie?",
+    "choices": ["From the store", "From her neighbor", "From her own tree", "From the market"],
+    "answer": 2
+  },
+  {
+    "context": "The space rocket launched at midnight. All the scientists watched as it flew up into the dark sky, heading toward the moon.",
+    "question": "When did the rocket launch?",
+    "choices": ["At noon", "At midnight", "In the morning", "At sunset"],
+    "answer": 1
+  },
+  {
+    "context": "Oliver the owl stayed awake all night. He watched over the forest while all the other animals slept peacefully in their homes.",
+    "question": "When did Oliver the owl stay awake?",
+    "choices": ["In the morning", "In the afternoon", "All night", "During lunch"],
+    "answer": 2
+  }
+]

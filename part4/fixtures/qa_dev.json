@@ -1,0 +1,32 @@
+[
+  {
+    "context": "The friendly dragon lived in a cozy cave on top of the mountain. Unlike other dragons, he didn't breathe fire. Instead, he breathed bubbles that made everyone laugh.",
+    "question": "What did the friendly dragon breathe?",
+    "choices": ["Fire", "Ice", "Bubbles", "Smoke"],
+    "answer": 2
+  },
+  {
+    "context": "Sophie learned to ride her bicycle in the park. Her father held the back of the seat until she could balance on her own.",
+    "question": "Who helped Sophie learn to ride?",
+    "choices": ["Her mother", "Her brother", "Her father", "Her friend"],
+    "answer": 2
+  },
+  {
+    "context": "The busy bee flew from flower to flower collecting nectar. She would take it back to the hive to make sweet honey.",
+    "question": "What did the bee collect from the flowers?",
+    "choices": ["Pollen", "Nectar", "Seeds", "Leaves"],
+    "answer": 1
+  },
+  {
+    "context": "Captain Jack sailed his ship across the seven seas. He was searching for a treasure island that was marked on his ancient map.",
+    "question": "What was Captain Jack searching for?",
+    "choices": ["New friends", "A treasure island", "A new ship", "Land to build"],
+    "answer": 1
+  },
+  {
+    "context": "The wise turtle walked slowly but surely. He taught the young animals that being patient and steady was more important than being fast.",
+    "question": "What lesson did the turtle teach?",
+    "choices": ["To run fast", "To be patient and steady", "To swim well", "To climb trees"],
+    "answer": 1
+  }
+]

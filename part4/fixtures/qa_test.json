@@ -1,0 +1,62 @@
+[
+  {
+    "context": "The clever fox lived at the edge of the forest. She was known for solving puzzles that no other animal could figure out.",
+    "question": "What was the fox known for?",
+    "choices": ["Running fast", "Solving puzzles", "Singing songs", "Building homes"],
+    "answer": -1
+  },
+  {
+    "context": "Tommy's grandmother gave him a special gift for his birthday. It was a beautiful watch that had belonged to his great-grandfather.",
+    "question": "What gift did Tommy receive?",
+    "choices": ["A book", "A toy", "A watch", "A bicycle"],
+    "answer": -1
+  },
+  {
+    "context": "The music teacher taught her students to play different instruments. The piano was the most popular choice among the children.",
+    "question": "What was the most popular instrument?",
+    "choices": ["Guitar", "Violin", "Drums", "Piano"],
+    "answer": -1
+  },
+  {
+    "context": "The young prince had to complete three challenges to become king. The first challenge was to climb the highest mountain in the kingdom.",
+    "question": "What was the first challenge?",
+    "choices": ["Cross a river", "Climb the highest mountain", "Find a treasure", "Defeat a dragon"],
+    "answer": -1
+  },
+  {
+    "context": "The baker woke up at 4 AM every morning to make fresh bread for the village. The smell of his baking filled the streets by sunrise.",
+    "question": "When did the baker wake up?",
+    "choices": ["At 6 AM", "At 4 AM", "At midnight", "At 5 AM"],
+    "answer": -1
+  },
+  {
+    "context": "The mermaid princess lived under the sea in a beautiful coral palace. She had a collection of treasures from shipwrecks that she loved to explore.",
+    "question": "Where did the mermaid princess live?",
+    "choices": ["On an island", "In a cave", "Under the sea", "By the shore"],
+    "answer": -1
+  },
+  {
+    "context": "The magician pulled a white rabbit out of his tall black hat. The audience clapped and cheered at the amazing trick.",
+    "question": "What did the magician pull from his hat?",
+    "choices": ["A dove", "A flower", "A white rabbit", "A scarf"],
+    "answer": -1
+  },
+  {
+    "context": "The astronaut floated in the space station looking at Earth below. She could see the blue oceans and white clouds from space.",
+    "question": "What could the astronaut see from space?",
+    "choices": ["Only land", "Blue oceans and white clouds", "Stars only", "The moon"],
+    "answer": -1
+  },
+  {
+    "context": "The ancient tree in the village square was over 500 years old. People said that making a wish under its branches would make dreams come true.",
+    "question": "How old was the ancient tree?",
+    "choices": ["100 years", "200 years", "Over 500 years", "Over 1000 years"],
+    "answer": -1
+  },
+  {
+    "context": "The inventor created a machine that could turn clouds into cotton candy. Children from all over came to taste the sweet fluffy treats.",
+    "question": "What did the machine turn clouds into?",
+    "choices": ["Rain", "Snow", "Cotton candy", "Pillows"],
+    "answer": -1
+  }
+]
